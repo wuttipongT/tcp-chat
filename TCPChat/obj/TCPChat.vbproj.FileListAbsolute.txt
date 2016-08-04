@@ -1,0 +1,16 @@
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\PickToLight.exe.config
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.exe
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.xml
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.pdb
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\PickToLight.exe
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\PickToLight.pdb
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\PickToLight.xml
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\Interop.BarTender.dll
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\BarcodeNETCore.dll
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\BarcodeNETWindows.dll
+E:\GitHub\tcp-chat\TCPChat\bin\Debug\WMS_STD_INB_Barcode.dll
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.frmPickToLight.resources
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.frmApp.resources
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\PickToLight.Resources.resources
+E:\GitHub\tcp-chat\TCPChat\obj\Debug\TCPChat.vbproj.GenerateResource.Cache

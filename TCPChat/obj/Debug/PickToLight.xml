@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PickToLight
+</name>
+</assembly>
+<members>
+<member name="P:PickToLight.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PickToLight.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PickToLight.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="E:PickToLight.TCPChat.Datareceived">
+	<summary>
+ Event data send back to calling form
+ </summary>
+</member><member name="E:PickToLight.TCPChat.connection">
+	<summary>
+ connection status back to form True: ok
+ </summary>
+</member><member name="E:PickToLight.TCPChat.sendOK">
+	<summary>
+ data send successfull (True)
+ </summary>
+</member><member name="E:PickToLight.TCPChat.recOK">
+	<summary>
+ data receive successfull (True)
+ </summary>
+</member><member name="P:PickToLight.TCPChat.Remote">
+	<summary>
+ reads endpoints
+ </summary>
+</member><member name="P:PickToLight.TCPChat.Local">
+	<summary>
+ reads local point
+ </summary>
+</member><member name="M:PickToLight.TCPChat.connect(System.String,System.Int32)">
+	<summary>
+ TCP connect with server
+ </summary>
+</member><member name="M:PickToLight.TCPChat.disconnect">
+	<summary>
+ disConnect server
+ </summary>
+</member><member name="M:PickToLight.TCPChat.SendData(System.String)">
+	<summary>
+ TCP send data
+ </summary>
+</member><member name="M:PickToLight.TCPChat.Handler(System.Object,System.Timers.ElapsedEventArgs)">
+	<summary>
+ TCP asynchronous receive on secondary timer
+ last update 10.5.2011
+ </summary>
+</member><member name="T:PickToLight.TCPChat">
+	<summary>
+ TCP sevices. Ellen Ramcke 2010
+ sends and receives Encoding.ASCII data
+ the max length of one data frame is 8196 bytes
+ last update: 8.1.2011
+ 10.5.2011 - remote/local  IP Endpoint
+ update 24.6.2011 DNS 
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
